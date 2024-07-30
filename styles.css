@@ -1,0 +1,51 @@
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th,
+td {
+  border: 1px solid #000;
+  padding: 8px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+.owner-dropdown {
+  width: 100%;
+}
+
+.yellow {
+  background-color: yellow;
+}
+
+.blue {
+  background-color: rgb(60, 143, 251);
+}
+
+.green {
+  background-color: green;
+}
+
+.purple {
+  background-color: purple;
+}
+
+.pink {
+  background-color: pink;
+}
+
+.red {
+  background-color: red;
+}
+
+.other {
+  background-color: grey;
+}
+
+.formSize {
+  width: 100px;
+}
